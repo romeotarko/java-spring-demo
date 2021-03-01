@@ -1,12 +1,13 @@
-#Personal Demo Application using java Spring and Postgres Database
-##Run DemoApplication.java
+# Personal Demo Application using java Spring and Postgres Database
+## Run DemoApplication.java
 
-###Here are some Endpoints
-##Student
--create
+### Here are some Endpoints
 
--insert
+## Student
+- create
 
--update
+- insert
 
--delete
+- update
+
+- delete
